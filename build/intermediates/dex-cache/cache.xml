@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/classes-f3ea709a09d579c704886203b60017dc68425a2d.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-695a275c972070907d2e52d27a4de73869d8fbcb.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/classes-3c31d9eb04229819e00fddcfe59966dcf7269157.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/mixare/mixarelib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9dfb57be1fff9b33f38675f8a40cdd5ffdf4c352">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/classes-bfbb43b6f90333f27c40945f986d93e2fed004b9.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/classes-755de677859a6a5c4c54f683b0a16645974fcef6.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/classes-82c08ce1fab1858c073b1d7ce510e460653bc435.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-58107ba4e2439975ce19b801cc32b5dc4f4bba0e.jar" />
+    </item>
+    <item
+        jar="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/inkyu/AndroidStudioProjects/mixare/mixare/build/intermediates/pre-dexed/debug/classes-76ce52853df61deb1b6e1d3ca23e8ad6a708af78.jar" />
+    </item>
+
+</items>
